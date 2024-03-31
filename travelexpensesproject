@@ -1,5 +1,4 @@
 #Creating my expenses list
-
 my_expenses_list = []
 
 #Create a function to Add my expenses (item & amount)
